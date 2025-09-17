@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Marwan Ferreira da Silva
 
-<!--
-**marwanferreira/marwanferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Financial Engineering & Applied Mathematics student at CY Tech.  
+I am interested in mathematics, machine learning, and quantitative trading.
 
-Here are some ideas to get you started:
+## Main Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python  
+TypeScript  
+R  
+VBA  
+C
+
+## Frameworks & Libraries
+
+PyTorch  
+TensorFlow  
+Pandas  
+NumPy  
+SciPy
+
+## Reach out
+
+[LinkedIn](https://www.linkedin.com/in/marwan-ferreira-da-silva/)  
+mferreirads04@gmail.com
